@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+h2{
+    color: red;
+    font-weight: bold;
+    width: 50vw;
+    margin: 0;
+}
+
+.post {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+}
+
+p{
+    margin-top: 5px;
+}
